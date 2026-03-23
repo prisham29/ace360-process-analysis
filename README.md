@@ -1,6 +1,6 @@
 # tutoring-process-analysis
 ## Overview
-This project analyses and improves the student enrolment and onboarding process at a tutoring centre (ACE360).
+This project analyses and improves the student enrolment and onboarding process at a tutoring centre.
 
 ## Problem
 The existing process relied on manual coordination, leading to:
