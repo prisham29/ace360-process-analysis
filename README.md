@@ -24,3 +24,4 @@ The proposed improvements aim to:
 - Increase operational efficiency
 
 ## Process Diagram
+![Process Analysis Diagram](consulting_case_analysis_white.svg)
